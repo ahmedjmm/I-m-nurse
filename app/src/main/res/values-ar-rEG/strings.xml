@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">انا ممرض</string>
+    <string name="main_activity_title">مرحبا</string>
+    <string name="main_activity_textView">"مرحبا ، يرجى قراءه الملاحظات التالية بعناية: \n\n"
+                "1 - هذا التطبيق لا يوفر اي طرق للدفع وغير مسؤول عن اي شيء يتعلق بصفقات من هذا النوع. \n\n"
+                " 2 - وظيفة التطبيق هو جعل الاتصال بين المريض و الممرض أسهل. \n\n"
+        "3 - من يمكنه استخدام هذا البرنامج يجب ان يكون مسجل لدي النقابة العامة للتمريض المصري. \n\n"
+                  "إذا كنت توافق على ذلك يرجى الضغط على موافق".</string>
+    <string name="main_activity_i_agree">موافق</string>
+    <string name="new_nurse_activity_title">تسجيل ممرض</string>
+    <string name="new_nurse_activity_id_number">رقم العضوية</string>
+    <string name="new_nurse_activity_button_register">تسجيل</string>
+    <string name="new_nurse_activity_mobile_number">رقم الهاتف</string>
+    <string name="pleaase_enter_the_following">برجاء ادخال البيانات التالية:</string>
+    <string name="you_are_not_a_member">عفوا, انت لست عضو بالنقابة</string>
+    <string name="menu_reset_app">اعادة الضبط</string>
+    <string name="menu_language">اللغة</string>
+    <string name="choose_language">برجاء اختيار اللغة:</string>
+
+
+    <string name="progress_dialog_title">جار التحميل</string>
+    <string name="progress_dialog_message">برجاء الانتظار</string>
+    <string name="alert_dialog_title">خطأ بالاتصال</string>
+    <string name="alert_dialog_message">برجاء التأكد من الاتصال بالانترنت</string>
+    <string name="fill_the_fields">هذا الحقل مطلوب</string>
+    <string name="iam_nurse">انا ممرض</string>
+    <string name="check_connection">برجاء التأكد من الاتصال بالانترنت</string>
+    <string name="mobile_number_error">رقم الهاتف يجب ان يكون مكون من 11 رقم</string>
+    <string name="enable_location">برجاء تفعيل خدمة تحديد المواقع في الجهاز</string>
+    <string name="email_address">البريد الاكتروني</string>
+    <string name="password">كلمة المرور</string>
+    <string name="new_nurse_activity_button_login">تسجيل الدخول</string>
+    <string name="new_nurse_registration">ممرض جديد, سجل الآن.</string>
+    <string name="empty_field">الحقل لا يمكن ان يكون فارغ</string>
+    <string name="new_register">تسجيل</string>
+    <string name="signedInSuccessfully">تم تسجيل الدخول بنجاح</string>
+    <string name="enter_mobile">برجاء ادخال رقم الهاتف:</string>
+    <string name="mobile_error">الهاتف يجب ان يكون مكون من 10 رقم</string>
+    <string name="ok">حسنا</string>
+    <string name="cancel">إلغاء</string>
+    <string name="enter_code">برجاء ادخال الرمز الذي تم ارساله اليك:</string>
+    <string name="verify">تأكيد</string>
+    <string name="unexpected_response_code">"رمز استجابة غير متوقع "</string>
+    <string name="Message">الرسالة</string>
+    <string name="accept">قبول</string>
+    <string name="alert_dialog_message_title">طلب رسالة</string>
+    <string name="alert_dialog_message_message">"طلب رسالة جديدة من "</string>
+    <string name="code_sent">تم ارسال الرمز</string>
+    <string name="edit_text_error_chat">اكتب رسالة لارسالها</string>
+</resources>

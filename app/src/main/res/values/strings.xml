@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">"I'm nurse"</string>
+
+    <!--<WelcomeActivity-->
+    <string name="main_activity_title">Hello</string>
+    <string name="main_activity_textView">"Hi, please read the following notes carefully:\n\n"
+                "1- This app doesn't provide any paying methods and not responsible of anything related to deals of that kind.\n\n"
+                "2- The function of the app is to make communication between patients and nurses easier.\n\n"
+                "3- Who can use this program are only registered with the general Union of Egyptian Nurses.\n\n"
+                 "If you agree with that please press I agree."</string>
+    <string name="main_activity_i_agree">I agree</string>
+
+    <!--NewNurse activity-->
+    <string name="new_nurse_activity_title">New nurse</string>
+    <string name="new_nurse_activity_id_number">Membership ID</string>
+    <string name="new_nurse_activity_button_register">Register</string>
+    <string name="new_nurse_activity_button_login">Login</string>
+    <string name="new_nurse_activity_mobile_number">Mobile number</string>
+    <string name="pleaase_enter_the_following">Please enter the following fields:</string>
+    <string name="progress_dialog_title">Loading</string>
+    <string name="progress_dialog_message">Please wait</string>
+    <string name="alert_dialog_title">Connection error</string>
+    <string name="alert_dialog_message">Please make sure you are connected to internet</string>
+    <string name="fill_the_fields">This field is required</string>
+    <string name="mobile_number_error">Mobile number should be 10 digits</string>
+
+    <!--ProfileActivity Strings-->
+    <string name="iam_nurse">I\'m nurse</string>
+
+    <!--individual Strings-->
+    <string name="you_are_not_a_member">Sorry you are not a member in the syndicate</string>
+    <string name="menu_reset_app">Reset app</string>
+    <string name="menu_language">Language</string>
+    <string name="choose_language">Please choose language:</string>
+
+    <string name="sub_menu_arabic" translatable="false">العربية</string>
+    <string name="sub_menu_english" translatable="false">English</string>
+    <string name="check_connection">Please check your internet connection</string>
+    <string name="enable_location">Please enable location services</string>
+    <string name="email_address">Email address</string>
+    <string name="password">Password</string>
+    <string name="new_nurse_registration">New nurse, register now.</string>
+    <string name="empty_field">Field can\'t be empty</string>
+    <string name="new_register">register</string>
+    <string name="signedInSuccessfully">signed in successfully</string>
+    <string name="enter_mobile">Please enter your mobile number</string>
+    <string name="mobile_error">Mobile should be 11 digits</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="verify">verify</string>
+    <string name="enter_code">Please enter code that sent to you:</string>
+    <string name="unexpected_response_code">Unexpected response code</string>
+    <string name="Message">Message</string>
+    <string name="accept">Accept</string>
+    <string name="alert_dialog_message_title">Message request</string>
+    <string name="alert_dialog_message_message">"New message request from "</string>
+    <string name="code_sent">Code sent</string>
+    <string name="edit_text_error_chat">Type message to send</string>
+</resources>
